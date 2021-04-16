@@ -188,7 +188,7 @@ def BankingServices():
                     
 def init():
     selectedOption = False
-    print('Welcome to ZuriT Microfinance Bank')
+    print('Welcome to EAGUB Microfinance Bank')
     while selectedOption == False: #with this loop, the system becomes iterative until a valid option is selected
         
         QueryAccountinfo = int(input('Do you have an account with ZuriT: \n Press: 1- Yes or 2- No:  '))
